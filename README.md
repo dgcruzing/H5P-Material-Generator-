@@ -105,4 +105,4 @@ This H5P Material Generator, crafted with Grok 3 from xAI, delivers a polished p
 
 - Fill in the blanks is not placing correcting on the import into H5P, it still builds so you can manually edit it out of the Markdown questions created.   
 - Add more activities   
-- At the moment it will only build 10 slides of single activities so you have to copy and paste to mis them up, easy enough to do in the copy/paste commands on H5P. But it would be nice to get an auto create going.
+- At the moment it will only build 10 slides of single activities so you have to copy and paste to mix them up, easy enough to do in the copy/paste commands on H5P. But it would be nice to get an auto create going.
