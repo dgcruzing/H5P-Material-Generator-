@@ -20,9 +20,17 @@ A Streamlit app that transforms PDFs into interactive H5P Course Presentations, 
    ```bash
    git clone https://github.com/yourusername/h5p-material-generator.git
    cd h5p-material-generator
+2. **Set Up Virtual Environment:**
+  - Create a virtual environment to isolate dependencies:
+```bash
+python -m venv venv
+```
+- Activate it:
+**Windows:** venv\Scripts\activate
+**Mac/Linux:** source venv/bin/activate
+- You’ll see (venv) in your terminal—deactivate later with deactivate.
 
-
-2. **Install Dependencies**
+3. **Install Dependencies:**
 ```bash
 pip install streamlit groq pdfplumber openai anthropic google-generativeai
 ```
