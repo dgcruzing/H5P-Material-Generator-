@@ -46,11 +46,11 @@ streamlit run app.py
 -   What Happens: The terminal will display a local URL (typically http://localhost:8501). Streamlit will automatically open this URL in your default web browser, launching the app. If it doesn’t auto-open, copy the URL from the terminal and paste it into your browser.
 
 **3.  Usage:**
-      -   Upload a PDF.
-          -   Pick an API and enter its key (temporary, per-run).
-          -   Choose a content type (Multiple Choice, Fill in the Blanks, True/False, Text).
-          -   Select or write a prompt, then generate.
-           -   Download the .h5p file and Markdown summary.
+   -   Upload a PDF.
+   -   Pick an API and enter its key (temporary, per-run).
+   -   Choose a content type (Multiple Choice, Fill in the Blanks, True/False, Text).
+   -   Select or write a prompt, then generate.
+   -   Download the .h5p file and Markdown summary.   
         
 
 ### Database
