@@ -26,7 +26,7 @@ A Streamlit app that transforms PDFs into interactive H5P Course Presentations, 
 ```bash
 pip install streamlit groq pdfplumber openai anthropic google-generativeai
 ```
-3. 2.  Verify Files:
+3. **Verify Files:**
     
     -   Ensure app.py and h5p_builder.py are in the root directory.
 
