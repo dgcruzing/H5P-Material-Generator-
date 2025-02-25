@@ -17,7 +17,7 @@ A Streamlit app that transforms PDFs into interactive H5P Course Presentations, 
 
 ### Installation
 1. **Clone the Repo**:
-   ``
+   ```bash
    git clone https://github.com/yourusername/h5p-material-generator.git
    cd h5p-material-generator
    ``
