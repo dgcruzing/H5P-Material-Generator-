@@ -26,9 +26,9 @@ A Streamlit app that transforms PDFs into interactive H5P Course Presentations, 
 python -m venv venv
 ```
 - Activate it:
-**Windows:** venv\Scripts\activate
+- **Windows:** venv\Scripts\activate
   
-**Mac/Linux:** source venv/bin/activate
+- **Mac/Linux:** source venv/bin/activate
 - You’ll see (venv) in your terminal—deactivate later with deactivate.
 
 3. **Install Dependencies:**
