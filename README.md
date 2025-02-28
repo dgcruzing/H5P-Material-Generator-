@@ -4,7 +4,8 @@ A Streamlit app that transforms PDFs into interactive H5P Course Presentations, 
 
 ### Sample
 
- - [Sample output and import in to H5P.com hub](https://acs.h5p.com/content/1292519232931523959)
+- [Sample output and import into H5P.com hub](https://acs.h5p.com/content/1292519232931523959)
+
 ---
 
 ## Setup
