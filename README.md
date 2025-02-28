@@ -3,11 +3,11 @@
 A Streamlit app that transforms PDFs into interactive H5P Course Presentations, powered by AI APIs (Groq, OpenAI, Claude, Google Gemini). Built with Grok 3 from xAI, this tool generates 10-slide presentations with customizable content types and a Markdown export for editing.
 
 ### Sample
+ ```bash
+ (https://acs.h5p.com/content/1292519232931523959)
 
-- [Sample output and import into H5P hub](https://acs.h5p.com/content/1292519232931523959)
-- [View Interactive Sample](https://acs.h5p.com/content/1292519232931523959)
+**For some reason Github does not like this link so you can copy and paste in to your browser.**
 
-https://acs.h5p.com/content/1292519232931523959
 ---
 
 ## Setup
