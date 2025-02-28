@@ -7,6 +7,7 @@ A Streamlit app that transforms PDFs into interactive H5P Course Presentations, 
  (https://acs.h5p.com/content/1292519232931523959)
 ```
 **For some reason Github does not like this link so you can copy and paste in to your browser.**
+[![View Sample](https://img.shields.io/badge/View-Sample-blue)](https://acs.h5p.com/content/1292519232931523959)
 
 ---
 
